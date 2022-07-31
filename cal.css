@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    padding: 15px;
+    font-size: 70px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    
+}
+.card{
+    text-align: center;
+    max-width: 350px;
+    margin: 0 auto;
+    background-color: rgb(214, 231, 231);
+    box-shadow: 3px 3px 5px rgb(69, 69, 73);
+    font-size: 0;
+}
+.card:hover{
+    box-shadow: 8px 8px 10px black;
+}
+#input{
+    height: 50px;
+    width: 342px;
+    font-size: 40px;
+    text-align: right;
+    padding-right: 5px;
+    font-weight: bold;
+    background-color: rgb(54, 46, 46);
+    color: white;
+}
+.btn{
+    height: 70px;
+    width: 80px;
+    margin: 1px 1px 1px 1px;
+    background-color: rgb(23, 22, 21);
+    color: white ;
+    font-weight: bold ;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: #ff6200;
+}
+.btn_style{
+    background-color: blueviolet;
+}
